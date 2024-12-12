@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Final_Project_DSD/Final_Project_DSD.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sim_1/new/Rx_Top_TB.sv,1733999601,systemVerilog,,,,Rx_Top_TB,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sim_1/new/Shift_Register_TB.sv,1733903736,systemVerilog,,,,Shift_Register_TB,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sim_1/new/TB_Counter_N_MOD.sv,1733902990,systemVerilog,,,,TB_Counter_N_MOD,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Counter_N_Mod.sv,1733997879,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/D_FF.sv,,Counter_N_Mod,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/D_FF.sv,1733995264,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Parity_Checker.sv,,D_FF,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Parity_Checker.sv,1733921283,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_Control_path.sv,,Parity_Checker,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_Control_path.sv,1734000065,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_DataPath.sv,,Rx_Control_path,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_DataPath.sv,1733999339,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_Top.sv,,Rx_DataPath,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Rx_Top.sv,1733996163,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Shift_Register.sv,,Rx_Top,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Shift_Register.sv,1733999997,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Stop_bit_Check.sv,,Shift_Register,,,,,,,,
+/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sources_1/new/Stop_bit_Check.sv,1733921633,systemVerilog,,/home/it/Final_Project_DSD/Final_Project_DSD.srcs/sim_1/new/Rx_Top_TB.sv,,Stop_bit_Check,,,,,,,,
